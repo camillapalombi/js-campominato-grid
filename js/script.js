@@ -41,7 +41,6 @@ for (let i = 1; i <= 49; i++) {
     squaresContainer.append(elemento);
 }*/
 
-
 let optionEasy = document.getElementById('easy').value;
 console.log(optionEasy);
 let optionDifficult = document.getElementById('difficult').value;
